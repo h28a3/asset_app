@@ -1,1 +1,7 @@
+time
+chromedriver_binary
 selenium
+numpy
+matplotlib
+openpyxl
+datetime
